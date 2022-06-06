@@ -1,3 +1,3 @@
 # codewars
 
-### Here are my solutions of Kata the CodeWars platform.
+### Here are my solutions of Kata on the CodeWars platform.
